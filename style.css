@@ -43,3 +43,15 @@
     background-color: #066858;
     transition: 0.5s ease-in;
 }
+.blogs {
+    margin: 50px;
+    padding: 20px ;
+    background-color: antiquewhite;
+    font-size: 24px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 15px ;
+}
+.blogs:hover{
+    background-color: aquamarine;
+    transition: 0.8s;
+}
